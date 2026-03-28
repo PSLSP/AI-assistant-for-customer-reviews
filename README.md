@@ -3,8 +3,6 @@
 Данный проект реализует прототип нейроассистента, который поможет быстро и грамотно обрабатывать отзывы клиентов, формировать корректные ответы и выявлять повторяющиеся проблемы.
 Проект включает в себя создание системного промпта, базы знаний в Google Sheets и документации для настройки ассистента в **ChatGPT** или **OpenAI Playground**. Код приложения не требуется — только текстовые артефакты.
 
-**English:** Educational prompt-engineering project: a system prompt, a CSV knowledge base, and docs for ChatGPT / OpenAI Playground. No application code — artifacts only.
-
 ---
 
 ## Содержание
